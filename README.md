@@ -1,0 +1,2 @@
+# thx
+Wordpress Starter Theme
