@@ -1,0 +1,18 @@
+// Adding a Visual Grid while you develop. Set to 'true.'
+$visual-grid: true;
+$visual-grid-color: #ccc;
+$visual-grid-index: front;
+$visual-grid-opacity: 0.9;
+
+// Change the grid settings
+$column: 100px;
+$gutter: 0px;
+$grid-columns: 12;
+$max-width:1200px;
+
+// Breakpoints
+$sm: new-breakpoint(min-width 200px 4);
+$smbg: new-breakpoint(min-width 480px 4);
+$md: new-breakpoint(min-width 768px 6);
+$mdbg: new-breakpoint(min-width 1024 8);
+$hg: new-breakpoint(min-width 1040px 8);

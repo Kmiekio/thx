@@ -1,0 +1,16 @@
+{
+  "name": "_s_gulp",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jonathanmoore/_s_gulp",
+  "authors": [
+    "Jonathan Moore <jonathan@stylehatch.co>"
+  ],
+  "description": "Forked version of _s WordPress theme with Gulp.js",
+  "license": "GPL",
+  "private": true,
+  "dependencies": {
+    "modernizr": "~2.8.2",
+    "bourbon": "7e6e3f22d14641a787f021e985781bff4edf9627",
+    "neat": "1.4.0"
+  }
+}
